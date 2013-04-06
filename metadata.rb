@@ -1,3 +1,4 @@
+name             "apache2-windows"
 maintainer       "Opscode, Inc"
 maintainer_email "YOUR_EMAIL"
 license          "All rights reserved"
